@@ -1,4 +1,4 @@
-# hello-word!This is first play github.now,the code is ajax and jsonp.
+# hello-world!This is first play github.now,the code is ajax and jsonp.
 <!-- 以下方法为jquery实现 ajax请求 使用jsonp方法实现跨域 -->  
 <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>  
   <script type="text/javascript">  
